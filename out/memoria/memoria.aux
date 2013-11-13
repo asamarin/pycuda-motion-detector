@@ -1,0 +1,66 @@
+\relax 
+\citation{DBLP:journals/corr/abs-0911-3456}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Introducción}{1}}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Administración de la máquina de pruebas}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1}python-2.7.1}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2}ipython-0.10.1}{3}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.2.1}readline-6.2}{3}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.2.2}nose-1.0.0}{3}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.3}numpy-1.5.1 y scipy-0.9.0}{3}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.3.1}gcc-4.5.2, mpc-0.8.1, gmp-4.3.2 y mpfr-2.4.2}{4}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.4}pycuda-0.94.2}{4}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.5}PIL-1.1.7}{4}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.6}OpenCV-2.2.0}{4}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces  Jerarquía de hilos}}{5}}
+\newlabel{fig:ThreadHierarchy}{{1}{5}}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Modelo de programación CUDA}{5}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Jerarquía de Hilos}{5}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Jerarquía de Memoria}{5}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces  Jerarquía de memoria}}{6}}
+\newlabel{fig:MemoriaHierarchy}{{2}{6}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3}Sincronizaciones por Barrera}{6}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4}Kernel}{6}}
+\citation{cbestpractices}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces  Escalado GPU}}{7}}
+\newlabel{fig:EscaladoGPU}{{3}{7}}
+\@writefile{toc}{\contentsline {section}{\numberline {4}Trabajo con PyCUDA}{7}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Primeras pruebas}{7}}
+\citation{Jiayin:2010:CMD:1933304.1933936}
+\citation{DBLP:conf/csse/YangZP08}
+\citation{codeproject}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Eficiencia de cómputo: Producto matricial de NxN con algoritmo clásico O(n$^{3}$) frente a algoritmo paralelo sobre GPU}}{8}}
+\newlabel{fig:cpu-gpu}{{4}{8}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Desarrollo del paquete \emph  {Filters}}{8}}
+\bibstyle{Jornadas}
+\bibdata{memoria}
+\bibcite{DBLP:journals/corr/abs-0911-3456}{1}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces Jerarquía de clases del detector de movimiento}}{9}}
+\newlabel{fig:UML}{{5}{9}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Algoritmo de Detección de Movimiento}{9}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces Frame original en escala de grises}}{10}}
+\newlabel{fig:original_grayscale}{{6}{10}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces Tras la aplicación del filtro de diferencia}}{10}}
+\newlabel{fig:diff_filter}{{7}{10}}
+\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces Tras la aplicación del filtro threshold}}{11}}
+\newlabel{fig:threshold_filter}{{8}{11}}
+\@writefile{lof}{\contentsline {figure}{\numberline {9}{\ignorespaces Tras la aplicación del filtro de erosión}}{11}}
+\newlabel{fig:erosion_filter}{{9}{11}}
+\bibcite{cbestpractices}{2}
+\bibcite{Jiayin:2010:CMD:1933304.1933936}{3}
+\bibcite{DBLP:conf/csse/YangZP08}{4}
+\bibcite{codeproject}{5}
+\@writefile{lof}{\contentsline {figure}{\numberline {10}{\ignorespaces Resultado final}}{12}}
+\newlabel{fig:result}{{10}{12}}
+\@writefile{toc}{\contentsline {section}{\numberline {5}Anexo: Códigos desarrollados}{12}}
+\newlabel{code:Filters/CUDAHandler}{{1}{13}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {1}Clase CUDAHandler}{13}}
+\newlabel{code:Filters/filter}{{2}{14}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {2}Clase padre abstracta Filter}{14}}
+\newlabel{code:Filters/difference}{{3}{15}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {3}Filtro de diferencia}{15}}
+\newlabel{code:Filters/erosion}{{4}{16}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {4}Filtro de erosión}{16}}
+\newlabel{code:videoHandler}{{5}{17}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {5}Clase VideoHandler}{17}}
+\newlabel{code:motionDetector}{{6}{18}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {6}Clase MotionDetector}{18}}

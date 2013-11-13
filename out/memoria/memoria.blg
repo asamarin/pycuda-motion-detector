@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: memoria.aux
+The style file: Jornadas.bst
+Database file #1: memoria.bib
+Warning--entry type for "codeproject" isn't style-file defined
+--line 59 of file memoria.bib
+Warning--entry type for "cbestpractices" isn't style-file defined
+--line 67 of file memoria.bib
+You've used 5 entries,
+            1838 wiz_defined-function locations,
+            488 strings with 4592 characters,
+and the built_in function-call counts, 1229 in all, are:
+= -- 110
+> -- 50
+< -- 2
++ -- 19
+- -- 14
+* -- 76
+:= -- 184
+add.period$ -- 6
+call.type$ -- 5
+change.case$ -- 5
+chr.to.int$ -- 0
+cite$ -- 5
+duplicate$ -- 59
+empty$ -- 125
+format.name$ -- 14
+if$ -- 292
+int.to.chr$ -- 0
+int.to.str$ -- 5
+missing$ -- 3
+newline$ -- 26
+num.names$ -- 5
+pop$ -- 23
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 41
+stack$ -- 0
+substring$ -- 60
+swap$ -- 24
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 10
+width$ -- 6
+write$ -- 57
+(There were 2 warnings)

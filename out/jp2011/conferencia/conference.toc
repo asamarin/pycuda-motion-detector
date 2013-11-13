@@ -1,0 +1,10 @@
+\beamer@endinputifotherversion {3.07pt}
+\select@language {spanish}
+\beamer@sectionintoc {1}{Introducci\'on}{3}{0}{1}
+\beamer@sectionintoc {2}{Computaci\'on con Python y CUDA}{4}{0}{2}
+\beamer@subsectionintoc {2}{1}{PyCUDA}{4}{0}{2}
+\beamer@subsectionintoc {2}{2}{PyCUBLAS}{10}{0}{2}
+\beamer@sectionintoc {3}{Caso pr\'actico: Detecci\'on de movimiento}{14}{0}{3}
+\beamer@subsectionintoc {3}{1}{Algoritmo}{14}{0}{3}
+\beamer@subsectionintoc {3}{2}{Implementaci\'on}{18}{0}{3}
+\beamer@sectionintoc {4}{Conclusiones}{21}{0}{4}

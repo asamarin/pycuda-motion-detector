@@ -1,0 +1,84 @@
+\beamer@endinputifotherversion {3.07pt}
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\slideentry {0}{0}{2}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\sectionentry {1}{Introducci\'on}{3}{Introducci\'on}{0}}
+\headcommand {\beamer@sectionpages {1}{2}}
+\headcommand {\beamer@subsectionpages {1}{2}}
+\headcommand {\slideentry {1}{0}{3}{3/3}{}{0}}
+\headcommand {\beamer@framepages {3}{3}}
+\headcommand {\sectionentry {2}{Computaci\'on con Python y CUDA}{4}{Computaci\'on con Python y CUDA}{0}}
+\headcommand {\beamer@sectionpages {3}{3}}
+\headcommand {\beamer@subsectionpages {3}{3}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{4}{PyCUDA}}\headcommand {\beamer@subsectionpages {4}{3}}
+\headcommand {\slideentry {2}{1}{1}{4/4}{PyCUDA}{0}}
+\headcommand {\beamer@framepages {4}{4}}
+\headcommand {\slideentry {2}{1}{2}{5/5}{PyCUDA}{0}}
+\headcommand {\beamer@framepages {5}{5}}
+\headcommand {\slideentry {2}{1}{3}{6/6}{PyCUDA}{0}}
+\headcommand {\beamer@framepages {6}{6}}
+\headcommand {\slideentry {2}{1}{4}{7/7}{PyCUDA}{0}}
+\headcommand {\beamer@framepages {7}{7}}
+\headcommand {\slideentry {2}{1}{5}{8/8}{PyCUDA}{0}}
+\headcommand {\beamer@framepages {8}{8}}
+\headcommand {\slideentry {2}{1}{6}{9/9}{PyCUDA}{0}}
+\headcommand {\beamer@framepages {9}{9}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{10}{PyCUBLAS}}\headcommand {\beamer@subsectionpages {4}{9}}
+\headcommand {\slideentry {2}{2}{1}{10/10}{PyCUBLAS}{0}}
+\headcommand {\beamer@framepages {10}{10}}
+\headcommand {\slideentry {2}{2}{2}{11/11}{PyCUBLAS}{0}}
+\headcommand {\beamer@framepages {11}{11}}
+\headcommand {\slideentry {2}{2}{3}{12/12}{PyCUBLAS}{0}}
+\headcommand {\beamer@framepages {12}{12}}
+\headcommand {\slideentry {2}{2}{4}{13/13}{PyCUBLAS}{0}}
+\headcommand {\beamer@framepages {13}{13}}
+\headcommand {\sectionentry {3}{Caso pr\'actico: Detecci\'on de movimiento}{14}{Caso pr\'actico: Detecci\'on de movimiento}{0}}
+\headcommand {\beamer@sectionpages {4}{13}}
+\headcommand {\beamer@subsectionpages {10}{13}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{14}{Algoritmo}}\headcommand {\beamer@subsectionpages {14}{13}}
+\headcommand {\slideentry {3}{1}{1}{14/14}{Algoritmo}{0}}
+\headcommand {\beamer@framepages {14}{14}}
+\headcommand {\slideentry {3}{1}{2}{15/15}{Algoritmo}{0}}
+\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\slideentry {3}{1}{3}{16/16}{Algoritmo}{0}}
+\headcommand {\beamer@framepages {16}{16}}
+\headcommand {\slideentry {3}{1}{4}{17/17}{Algoritmo}{0}}
+\headcommand {\beamer@framepages {17}{17}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{18}{Implementaci\'on}}\headcommand {\beamer@subsectionpages {14}{17}}
+\headcommand {\slideentry {3}{2}{1}{18/18}{Implementaci\'on}{0}}
+\headcommand {\beamer@framepages {18}{18}}
+\headcommand {\slideentry {3}{2}{2}{19/19}{Implementaci\'on}{0}}
+\headcommand {\beamer@framepages {19}{19}}
+\headcommand {\slideentry {3}{2}{3}{20/20}{Implementaci\'on}{0}}
+\headcommand {\beamer@framepages {20}{20}}
+\headcommand {\sectionentry {4}{Conclusiones}{21}{Conclusiones}{0}}
+\headcommand {\beamer@sectionpages {14}{20}}
+\headcommand {\beamer@subsectionpages {18}{20}}
+\headcommand {\slideentry {4}{0}{4}{21/21}{}{0}}
+\headcommand {\beamer@framepages {21}{21}}
+\headcommand {\partentry {Ap\'endice}{1}}
+\headcommand {\beamer@partpages {1}{21}}
+\headcommand {\beamer@sectionpages {21}{21}}
+\headcommand {\beamer@subsectionpages {21}{21}}
+\headcommand {\beamer@appendixpages {22}}
+\headcommand {\sectionentry {5}{Bibliograf\IeC {\'\i }a destacada}{22}{Bibliograf\IeC {\'\i }a destacada}{1}}
+\headcommand {\beamer@sectionpages {22}{21}}
+\headcommand {\beamer@subsectionpages {22}{21}}
+\headcommand {\slideentry {5}{0}{5}{22/22}{}{1}}
+\headcommand {\beamer@framepages {22}{22}}
+\headcommand {\sectionentry {6}{Preguntas}{23}{Preguntas}{1}}
+\headcommand {\beamer@sectionpages {22}{22}}
+\headcommand {\beamer@subsectionpages {22}{22}}
+\headcommand {\slideentry {6}{0}{6}{23/23}{}{1}}
+\headcommand {\beamer@framepages {23}{23}}
+\headcommand {\sectionentry {7}{Agradecimientos}{24}{Agradecimientos}{1}}
+\headcommand {\beamer@sectionpages {23}{23}}
+\headcommand {\beamer@subsectionpages {23}{23}}
+\headcommand {\slideentry {7}{0}{7}{24/24}{}{1}}
+\headcommand {\beamer@framepages {24}{24}}
+\headcommand {\beamer@partpages {22}{24}}
+\headcommand {\beamer@subsectionpages {24}{24}}
+\headcommand {\beamer@sectionpages {24}{24}}
+\headcommand {\beamer@documentpages {24}}
+\headcommand {\def \inserttotalframenumber {24}}

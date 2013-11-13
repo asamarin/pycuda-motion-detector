@@ -1,0 +1,47 @@
+\begin{thebibliography}{1}
+
+\bibitem{DBLP:journals/corr/abs-0911-3456}
+Andreas Kl{\"o}ckner, Nicolas Pinto, Yunsup Lee, Bryan~C. Catanzaro, Paul
+  Ivanov, and Ahmed Fasih,
+\newblock ``Pycuda: Gpu run-time code generation for high-performance
+  computing,''
+\newblock {\em CoRR}, vol. abs/0911.3456, 2009.
+
+\bibitem{opencl}
+{Khronos Group},
+\newblock ``{OpenCL - The open standard for parallel programming of
+  heterogeneous systems},'' 2011.
+
+\bibitem{aboutcuda}
+{NVIDIA Corp.},
+\newblock ``{What is CUDA - NVIDIA Developer Zone},'' 2011.
+
+\bibitem{cbestpractices}
+{NVIDIA Corp.},
+\newblock ``{NVIDIA CUDA C Best Practices Guide},'' 2010.
+
+\bibitem{imagecuda}
+{Victor Podlozhnyuk (NVIDIA Corp.)},
+\newblock ``{Image Convolution with CUDA},'' 2007.
+
+\bibitem{pycublas}
+{Derek Anderson},
+\newblock ``{PyCUBLAS - Easy Python/NumPy/CUDA/CUBLAS Integration},'' 2009.
+
+\bibitem{Jiayin:2010:CMD:1933304.1933936}
+Liu Jiayin, Wang Chuang, and Jae~Ho Kim,
+\newblock ``Camera motion detection for conversation scenes in movies,''
+\newblock in {\em Proceedings of the 2010 International Conference on
+  Computational and Information Sciences}, Washington, DC, USA, 2010, ICCIS
+  '10, pp. 725--728, IEEE Computer Society.
+
+\bibitem{DBLP:conf/csse/YangZP08}
+Zhiyi Yang, Yating Zhu, and Yong Pu,
+\newblock ``Parallel image processing based on cuda,''
+\newblock in {\em CSSE (3)}. 2008, pp. 198--201, IEEE Computer Society.
+
+\bibitem{codeproject}
+{Andrew Kirillov},
+\newblock ``Motion detection algorithms,'' 2007.
+
+\end{thebibliography}

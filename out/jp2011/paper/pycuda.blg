@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: pycuda.aux
+The style file: Jornadas.bst
+Database file #1: pycuda.bib
+Warning--entry type for "codeproject" isn't style-file defined
+--line 59 of file pycuda.bib
+Warning--entry type for "cbestpractices" isn't style-file defined
+--line 67 of file pycuda.bib
+Warning--entry type for "opencl" isn't style-file defined
+--line 75 of file pycuda.bib
+Warning--entry type for "aboutcuda" isn't style-file defined
+--line 83 of file pycuda.bib
+Warning--entry type for "imagecuda" isn't style-file defined
+--line 91 of file pycuda.bib
+Warning--entry type for "pycublas" isn't style-file defined
+--line 99 of file pycuda.bib
+You've used 9 entries,
+            1838 wiz_defined-function locations,
+            500 strings with 4891 characters,
+and the built_in function-call counts, 1733 in all, are:
+= -- 150
+> -- 66
+< -- 2
++ -- 27
+- -- 18
+* -- 88
+:= -- 260
+add.period$ -- 10
+call.type$ -- 9
+change.case$ -- 9
+chr.to.int$ -- 0
+cite$ -- 9
+duplicate$ -- 79
+empty$ -- 197
+format.name$ -- 18
+if$ -- 412
+int.to.chr$ -- 0
+int.to.str$ -- 9
+missing$ -- 3
+newline$ -- 42
+num.names$ -- 9
+pop$ -- 51
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 57
+stack$ -- 0
+substring$ -- 60
+swap$ -- 28
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 14
+width$ -- 10
+write$ -- 93
+(There were 6 warnings)
